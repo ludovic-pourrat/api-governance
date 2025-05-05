@@ -125,8 +125,26 @@
 
 # API Maturity levels
 
+- API scoring
+
 - Level 1 - Basic Documentation
 - Level 2 - Enhanced Documentation and Versioning
 - Level 3 - Mocking and Testing
 - Level 4 - SLA and Operational Metrics
   
+# API design guidelines
+
+- Per use case guildelines
+- How to boostrap
+- What about API first waht does that mean 
+
+# API linting
+
+- API linited rules spectral
+- Where does it applies
+
+# API SDKs
+
+- Technologies
+- Registration
+- Lookup
